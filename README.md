@@ -2,7 +2,7 @@
 Base de Datos de Enfermedades InfectoContagiosas, Abierta, Anónima y Accesible
 
 ### Estamos creando este repositorio para crear una base de datos pública de todos y para todos.
-### Participa en este repositorio
+### Participa en este repositorio desde nuestro [foro de debate](https://github.com/NGDAOorg/BADEICAAA/discussions) y más tarde como miembro de este repositorio
 
 ## Objetivos
 * Crear una base de datos de incidencias de enfermedades infectocontagiosas creada desde la sociedad civil con el fin de ayudar de una forma más eficaz a científicos y estudiosos para tomar mejores decisiones en caso de epidemias y pandemias.
@@ -18,7 +18,7 @@ Cualquier ciudadano debe poder acceder líbremente a la base de datos en cualqui
 ### Abierta
 Cualquier persona interesada ha de poder participar en la elaboración de la elaboración y gestión del proyecto, siempre y cuando no contravenga los legítimos intereses ni los princios de bien común por los que se rige este proyecto.
 ### Confiable
-El sistema debe dar confianza a quienes aporten valor al proyecto y a quienes quieran hacer uso de él.
+El sistema debe dar confianza a quienes aporten valor al proyecto y a quienes quieran hacer uso de él, por ello se usan sistemas abiertos y transparentes para la creación de la base de datos.
 ## Ventajas
 Una base de datos creada desde la sociedad civil tiene innumerables ventajas
 * 
