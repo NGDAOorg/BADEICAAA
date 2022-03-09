@@ -1,26 +1,54 @@
 # BADEICAAA
-Base de Datos de Enfermedades InfectoContagiosas, Abierta, Anónima y Accesible
+## Base de Datos de Enfermedades InfectoContagiosas, Abierta, Anónima y Accesible
 
 ### Estamos creando este repositorio para crear una base de datos pública de todos y para todos.
-### Participa en este repositorio desde nuestro [foro de debate](https://github.com/NGDAOorg/BADEICAAA/discussions) y más tarde como miembro de este repositorio
+### Participa en este repositorio desde nuestro [foro de debate](https://github.com/NGDAOorg/BADEICAAA/discussions) y más tarde como miembro.
+
+## Sabiendo qué
+* **Existen diferentes fuentes de información sobre enfermedades infectocontagiosas y no todas son públicas (sus datos) y/o auditables**, y en caso de serlo es difícil conocer la integridad de estos datos.
+* Que **ha habido en ocasiones "[comités de expertos](https://www.elmundo.es/ciencia-y-salud/salud/2020/07/29/5f21d3abfdddff0c3d8b45bd.html)" que luego no han resultado ser tales.**
+* Que **se toman decisiones políticas sobre derechos y libertades individuales en base a datos y comites de expertos** que los ciudadanos afectados no siempre pueden auditar.
+
+## Principios
+* **No ponemos en duda otras fuentes de datos**, tan solo complementamos la información ya existente con datos abiertos.
+* Entendemos que **cualquier indivíduo**, por conciencia e instinto de conservación, **es el más interesado en cuidar y preservar su saludo** y por tanto su vida.
+* Entendemos que **el ser humano es social por naturaleza y es consciente de la importancia de unas buenas relaciones con sus semejantes**, en especial con aquellos que más cerca tiene y con los que convive a diario en su casa, centro de estudios, centro de trabajo o en la calle.
+* **La conservación de la saludo individual y colectiva es muy dificil de preservar si el indivíduo desconoce cual es la realidad que le rodea**, en especial en materia de enfermedades infectocontagioas.
+* **La misión de este repositorio es la creación de herramientas para la toma de datos y su custodia, las conclusiones que se deriven de la información obtenida recae en el ciudadano o en los expertos** que se decidan a tratar esta información.
 
 ## Objetivos
-* Crear una base de datos de incidencias de enfermedades infectocontagiosas creada desde la sociedad civil con el fin de ayudar de una forma más eficaz a científicos y estudiosos para tomar mejores decisiones en caso de epidemias y pandemias.
+* Conseguir **que los ciudadanos tengan en cada momento la mejor y más fiable información sobre enfermedades infectocontagiosas** que pudieran afectar a su entorno más cercano y ayudar a tomar medidas individuales y colectivas en función de dichos datos.
+
+## Acciones
+
+### Base de datos sobre enfermedades infectocontagiosas abiertas anónimas y accesibles
+* **Crear una base de datos de incidencias de enfermedades infectocontagiosas** creada desde y para la sociedad civil con el fin de ayudar de una forma más eficaz a científicos y estudiosos a tomar mejores decisiones en caso de epidemias y pandemias.
+
+**Participa en los [foros de debate](https://github.com/NGDAOorg/BADEICAAA/discussions)** para poder integrarte en el equipo, disipar tus dudas o aportar tus ideas.
+
+#### Ventajas
+Una base de datos creada desde la sociedad civil tiene innumerables ventajas.
+* **Refuerza el sentimiento de comunidad** y ayuda a afrontar nuevos proyectos por parte de la sociedad civil.
+* Ayuda a la **protección de la veracidad de la información** colectiva.
+
+#### Desventajas
+* Es fácil que pueda colarse algún dato erróneo con buena o mala intención, pero la propia sociedad puede ayudar a paliar este problema.
+
+### Otras acciones
+* Los participantes en este repositorio, no descartamos la posibilidad de crear otras bases de datos o repositorios destinados a conocer también el efectos de tratamientos de enfermedades infectocontagiosas y el alcance de los mismos.
 
 ## Características
 ### Anónima
-Sabemos que los datos médicos son de una extrema delicadeza y la privacidad de estos constituye un derecho fundamental, por lo que la primera característica de la base de datos ha de ser el anonimato
+Sabemos que los datos médicos son de una extrema delicadeza y la privacidad de estos constituye un derecho fundamental, por lo que la primera característica de la base de datos ha de ser **el anonimato**.
 ### Accesible
-Cualquier ciudadano debe poder acceder líbremente a la base de datos en cualquier momento, desde cualquier lugar y con todos sus datos actualizados. Los principales motivos para ello son:
+**Cualquier ciudadano debe poder acceder líbremente a la base de datos** en cualquier momento, desde cualquier lugar y con todos sus datos actualizados. Los principales motivos para ello son:
 * Comprobar que los datos ingresados por uno mismo están dentro de la base de datos y no han sufrido ningún tipo de manipulación.
 * Comprobar que los datos son realmente anónimos.
-* Que cualquier estudioso del tema pueda gestionar la información y obtener conclusiones que ayuden a tomar decisiones acertadas
+* Que cualquier estudioso del tema pueda gestionar la información y obtener conclusiones que ayuden a tomar decisiones acertadas.
 ### Abierta
-Cualquier persona interesada ha de poder participar en la elaboración de la elaboración y gestión del proyecto, siempre y cuando no contravenga los legítimos intereses ni los princios de bien común por los que se rige este proyecto.
+**Cualquier persona interesada ha de poder participar en la elaboración y gestión del proyecto**, siempre y cuando no contravenga los legítimos intereses ni los princios de bien común por los que se rige este proyecto.
 ### Confiable
-El sistema debe dar confianza a quienes aporten valor al proyecto y a quienes quieran hacer uso de él, por ello se usan sistemas abiertos y transparentes para la creación de la base de datos.
-## Ventajas
-Una base de datos creada desde la sociedad civil tiene innumerables ventajas
-* 
+**El sistema debe dar confianza a quienes aporten valor al proyecto y a quienes quieran hacer uso de él**, por ello se usan sistemas abiertos y transparentes para la creación de la base de datos.
+
 ## Licencias
 CCBY
