@@ -1,8 +1,9 @@
 # BADEICAAA
 ## Base de Datos de Enfermedades InfectoContagiosas, Abierta, Anónima y Accesible
 
-### Estamos creando este repositorio para crear una base de datos pública de todos y para todos.
-### Participa en este repositorio desde nuestro [foro de debate](https://github.com/NGDAOorg/BADEICAAA/discussions) y más tarde como miembro.
+### Porque la información veraz y accesible al ciudadano es básica para afrontar cualquier epidemia o pandemia, para prevenirla, mitigarla y acabar con ella.
+### Porque sólo la colaboración ciudadana, desde la confianza en la eficacia de las acciones, puede ayudar a cumplir objetivos ambiciosos en aras del bien común.
+### Participa en este repositorio desde nuestro [foro de debate](https://github.com/NGDAOorg/BADEICAAA/discussions).
 
 ## Sabiendo qué
 * **Existen diferentes fuentes de información sobre enfermedades infectocontagiosas y no todas son públicas (sus datos) y/o auditables**, y en caso de serlo es difícil conocer la integridad de estos datos.
@@ -11,10 +12,10 @@
 
 ## Principios
 * **No ponemos en duda otras fuentes de datos**, tan solo complementamos la información ya existente con datos abiertos.
-* Entendemos que **cualquier indivíduo**, por conciencia e instinto de conservación, **es el más interesado en cuidar y preservar su saludo** y por tanto su vida.
+* Entendemos que **cualquier individuo**, por conciencia e instinto de conservación, **es el más interesado en cuidar y preservar su salud** y por tanto su vida.
 * Entendemos que **el ser humano es social por naturaleza y es consciente de la importancia de unas buenas relaciones con sus semejantes**, en especial con aquellos que más cerca tiene y con los que convive a diario en su casa, centro de estudios, centro de trabajo o en la calle.
-* **La conservación de la saludo individual y colectiva es muy dificil de preservar si el indivíduo desconoce cual es la realidad que le rodea**, en especial en materia de enfermedades infectocontagioas.
-* **La misión de este repositorio es la creación de herramientas para la toma de datos y su custodia, las conclusiones que se deriven de la información obtenida recae en el ciudadano o en los expertos** que se decidan a tratar esta información.
+* **La conservación de la salud individual y colectiva es muy dificil de preservar si el individuo desconoce cual es la realidad que le rodea**, en especial en materia de enfermedades infectocontagioas.
+* **La misión de este repositorio es la creación de herramientas para la toma de datos y su custodia, las conclusiones que se deriven de la información obtenida recaen en el ciudadano o en los expertos** que se decidan a tratar esta información.
 
 ## Objetivos
 * Conseguir **que los ciudadanos tengan en cada momento la mejor y más fiable información sobre enfermedades infectocontagiosas** que pudieran afectar a su entorno más cercano y ayudar a tomar medidas individuales y colectivas en función de dichos datos.
@@ -32,7 +33,7 @@ Una base de datos creada desde la sociedad civil tiene innumerables ventajas.
 * Ayuda a la **protección de la veracidad de la información** colectiva.
 
 #### Desventajas
-* Es fácil que pueda colarse algún dato erróneo con buena o mala intención, pero la propia sociedad puede ayudar a paliar este problema.
+* En una base de datos anónima, es fácil que pueda colarse algún dato erróneo con buena o mala intención, pero la propia sociedad puede ayudar a paliar este problema.
 
 ### Otras acciones
 * Los participantes en este repositorio, no descartamos la posibilidad de crear otras bases de datos o repositorios destinados a conocer también el efectos de tratamientos de enfermedades infectocontagiosas y el alcance de los mismos.
