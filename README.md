@@ -51,5 +51,7 @@ Sabemos que los datos médicos son de una extrema delicadeza y la privacidad de 
 ### Confiable
 **El sistema debe dar confianza a quienes aporten valor al proyecto y a quienes quieran hacer uso de él**, por ello se usan sistemas abiertos y transparentes para la creación de la base de datos.
 
+[Telegram](https://t.me/SociedadParalela)
+
 ## Licencias
 CCBY
