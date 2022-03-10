@@ -3,7 +3,7 @@
 
 ### Porque la información veraz y accesible al ciudadano es básica para afrontar cualquier epidemia o pandemia, para prevenirla, mitigarla y acabar con ella.
 ### Porque sólo la colaboración ciudadana, desde la confianza en la eficacia de las acciones, puede ayudar a cumplir objetivos ambiciosos en aras del bien común.
-### Participa en este repositorio desde nuestro [foro de debate](https://github.com/NGDAOorg/BADEICAAA/discussions).
+### Participa en este repositorio desde nuestro [foro de debate en Github](https://github.com/NGDAOorg/BADEICAAA/discussions) o en [Telegram](https://t.me/SociedadParalela).
 
 ## Sabiendo qué
 * **Existen diferentes fuentes de información sobre enfermedades infectocontagiosas y no todas son públicas (sus datos) y/o auditables**, y en caso de serlo es difícil conocer la integridad de estos datos.
@@ -51,7 +51,7 @@ Sabemos que los datos médicos son de una extrema delicadeza y la privacidad de 
 ### Confiable
 **El sistema debe dar confianza a quienes aporten valor al proyecto y a quienes quieran hacer uso de él**, por ello se usan sistemas abiertos y transparentes para la creación de la base de datos.
 
-[Telegram](https://t.me/SociedadParalela)
+
 
 ## Licencias
 CCBY
