@@ -25,6 +25,29 @@
 ### Base de datos sobre enfermedades infectocontagiosas abiertas anónimas y accesibles
 * **Crear una base de datos de incidencias de enfermedades infectocontagiosas** creada desde y para la sociedad civil con el fin de ayudar de una forma más eficaz a científicos y estudiosos a tomar mejores decisiones en caso de epidemias y pandemias.
 
+#### Características
+##### Anónima
+Sabemos que los datos médicos son de una extrema delicadeza y la privacidad de estos constituye un derecho fundamental, por lo que la primera característica de la base de datos ha de ser **el anonimato**.
+##### Accesible
+**Cualquier ciudadano debe poder acceder líbremente a la base de datos** en cualquier momento, desde cualquier lugar y con todos sus datos actualizados. Los principales motivos para ello son:
+* Comprobar que los datos ingresados por uno mismo están dentro de la base de datos y no han sufrido ningún tipo de manipulación.
+* Comprobar que los datos son realmente anónimos.
+* Que cualquier estudioso del tema pueda gestionar la información y obtener conclusiones que ayuden a tomar decisiones acertadas.
+
+La base de datos también ha de ser accesible en lo que respecta a su facilidad de uso, tanto para cualquier ciudadano como para expertos.
+
+##### Abierta
+**Cualquier persona interesada ha de poder participar en la elaboración y gestión del proyecto**, siempre y cuando no contravenga los legítimos intereses ni los princios de bien común por los que se rige este proyecto.
+##### Confiable
+**El sistema debe dar confianza a quienes aporten valor al proyecto y a quienes quieran hacer uso de él**, por ello se usan sistemas abiertos y transparentes para la creación de la base de datos.
+##### Varios modelos
+* No tiene por qué existir un único modelo de base de datos o una única base de datos.
+* Todas las bases de datos deben ser accesibles para cualquier ciudadano, pero pueden existir modelos en los que solo puedan introducir datos determinados usuarios, por ejemplo profesionales de la medicina, y otras que no tengan ningún tipo de restricción. 
+##### Escalable
+En función del sistema de base de datos que se utilice, podría haber límites en el número de registros y/o campos, por lo que es interesante usar sistemas de bases de datos escalables o bien poder hacer subdivisiones de la base de datos de más generalista a menos.
+##### Estándar
+Es de esperar que las primeras versiones de bases de datos tengan que adaptar datos y formatos de datos con el paso del tiempo para hacerlas compatibles con otras bases de datos similares, pero no cabe duda de que es deseable tratar de cumplir con estandars de compatibilidad desde el primero momento, siempre y cuando esto no condicione la facilidad de uso por parte de cualquier usuario.
+
 **Participa en los [foros de debate](https://github.com/NGDAOorg/BADEICAAA/discussions)** para poder integrarte en el equipo, disipar tus dudas o aportar tus ideas.
 
 #### Ventajas
@@ -37,21 +60,6 @@ Una base de datos creada desde la sociedad civil tiene innumerables ventajas.
 
 ### Otras acciones
 * Los participantes en este repositorio, no descartamos la posibilidad de crear otras bases de datos o repositorios destinados a conocer también el efectos de tratamientos de enfermedades infectocontagiosas y el alcance de los mismos.
-
-## Características
-### Anónima
-Sabemos que los datos médicos son de una extrema delicadeza y la privacidad de estos constituye un derecho fundamental, por lo que la primera característica de la base de datos ha de ser **el anonimato**.
-### Accesible
-**Cualquier ciudadano debe poder acceder líbremente a la base de datos** en cualquier momento, desde cualquier lugar y con todos sus datos actualizados. Los principales motivos para ello son:
-* Comprobar que los datos ingresados por uno mismo están dentro de la base de datos y no han sufrido ningún tipo de manipulación.
-* Comprobar que los datos son realmente anónimos.
-* Que cualquier estudioso del tema pueda gestionar la información y obtener conclusiones que ayuden a tomar decisiones acertadas.
-### Abierta
-**Cualquier persona interesada ha de poder participar en la elaboración y gestión del proyecto**, siempre y cuando no contravenga los legítimos intereses ni los princios de bien común por los que se rige este proyecto.
-### Confiable
-**El sistema debe dar confianza a quienes aporten valor al proyecto y a quienes quieran hacer uso de él**, por ello se usan sistemas abiertos y transparentes para la creación de la base de datos.
-
-
 
 ## Licencias
 CCBY
